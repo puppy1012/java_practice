@@ -103,7 +103,7 @@ public class Main {
                      arr7[i]=arr7[j];
                      arr7[j]=tmp;
                 }
-                System.out.println("i,j="+i+j);
+//                System.out.println("i,j="+i+j);
             }
             System.out.print(arr7[i]+" ");
         }
