@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        /*
+        
         //1번
 		int[] arr1 = {1, 2, 3, 4, 5};
 		for(int i=arr1.length-1;i>=0;i--) {
@@ -92,9 +92,9 @@ public class Main {
         }else{
             System.out.println("짝수가 없습니다");
         }
-        */
+        //7번
         int[] arr7 = {1, 2, 3, 4, 5};
-        int tmp=0;
+        tmp=0;
         System.out.print("결과:");
         for (int i=0;i<arr7.length;i++){
             for (int j=i+1;j< arr7.length;j++){
